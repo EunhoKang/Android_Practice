@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="main_title">Let\'s find out \nyour love type!</string>
+    <string name="question">There were favorite flowers\nin flowers in the flower vase. \nAs time goes, the flowers\nhave all withered.\nWhat are you going to do with that?</string>
+    <string name="option1">1.Throw it away.</string>
+    <string name="option2">2.Water the flowers.</string>
+    <string name="option3">3.Cut it off with sissors.</string>
+    <string name="option4">4.Make them as dir flowers.</string>
+</resources>
